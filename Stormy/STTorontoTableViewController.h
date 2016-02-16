@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  STTorontoTableViewController.h
 //  Stormy
 //
 //  Created by Charles Kang on 2/16/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface STTorontoTableViewController : UITableViewController
 
 @end
-
